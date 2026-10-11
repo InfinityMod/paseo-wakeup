@@ -1,0 +1,8 @@
+{
+  "id": "paseo-wakeup",
+  "name": "Wake-up",
+  "description": "Continue interrupted sessions after their provider usage limit resets.",
+  "requirements": {
+    "paseo": ">=0.11.1"
+  }
+}
